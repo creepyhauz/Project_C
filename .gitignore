@@ -52,3 +52,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/ProjectC/CopilotIndices/17.13.433.20974
+/.vs/ProjectEvaluation
+/.vs/ProjectC/FileContentIndex
+/.vs/ProjectC/DesignTimeBuild
+/.vs/ProjectC/v17
+*.user
